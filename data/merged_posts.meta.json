@@ -1,0 +1,16 @@
+{
+  "schema": "community-solar-merged-posts-meta/v1",
+  "row_count": 57643,
+  "max_created_at": "2026-06-29T18:13:45+00:00",
+  "max_created_ids": [
+    "2071658392981315645"
+  ],
+  "first_created_at": "2014-11-23T16:02:46+00:00",
+  "id_count": 57643,
+  "id_set_sha256": "92f7fe417cd8088b04b011272ed3cc1b22879917f1992ebdd55b78f03afd2354",
+  "merged_posts_sha256": "26c7c8062ac07229e7743af60d8c5dd3154a02f8860ecea34737cc21e83a2716",
+  "update_paths": [
+    "data/updates/2026-06-29T183207.823549Z0000.tweets.jsonl"
+  ],
+  "generated_at": "2026-06-29T18:32:21.131143+00:00"
+}
